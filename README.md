@@ -4,4 +4,4 @@
 
 대학생을 위한 카페 검색/리뷰 사이트 근처카페(NearByCafe)
 
-<a src=https:nearbycafe.store></a>
+<a href="https://nearbycafe.store">nearbycafe.store</a>
